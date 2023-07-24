@@ -1,0 +1,798 @@
+[
+  {
+    "Title": "Joker",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "04 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Todd Phillips",
+    "Writer": "Todd Phillips, Scott Silver, Bob Kane",
+    "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz",
+    "Plot": "The rise of Arthur Fleck, from aspiring stand-up comedian and pariah to Gotham's clown prince and leader of the revolution.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "Won 2 Oscars. 122 wins & 239 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "69%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "59/100"
+      }
+    ],
+    "Metascore": "59",
+    "imdbRating": "8.4",
+    "imdbVotes": "1,352,676",
+    "imdbID": "tt7286456",
+    "Type": "movie",
+    "DVD": "03 Oct 2019",
+    "BoxOffice": "$335,477,657",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Parasite",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "08 Nov 2019",
+    "Runtime": "132 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Bong Joon Ho",
+    "Writer": "Bong Joon Ho, Han Jin-won",
+    "Actors": "Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong",
+    "Plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "Language": "Korean, English",
+    "Country": "South Korea",
+    "Awards": "Won 4 Oscars. 307 wins & 272 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "99%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "96/100"
+      }
+    ],
+    "Metascore": "96",
+    "imdbRating": "8.5",
+    "imdbVotes": "854,949",
+    "imdbID": "tt6751668",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "$53,369,749",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Once Upon a Time in Hollywood",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "26 Jul 2019",
+    "Runtime": "161 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Quentin Tarantino",
+    "Writer": "Quentin Tarantino",
+    "Actors": "Leonardo DiCaprio, Brad Pitt, Margot Robbie",
+    "Plot": "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+    "Language": "English, Italian, Spanish, German",
+    "Country": "United States, United Kingdom, China",
+    "Awards": "Won 2 Oscars. 143 wins & 381 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.6",
+    "imdbVotes": "778,672",
+    "imdbID": "tt7131622",
+    "Type": "movie",
+    "DVD": "27 Aug 2019",
+    "BoxOffice": "$142,502,728",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Irishman",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "27 Nov 2019",
+    "Runtime": "209 min",
+    "Genre": "Biography, Crime, Drama",
+    "Director": "Martin Scorsese",
+    "Writer": "Steven Zaillian, Charles Brandt",
+    "Actors": "Robert De Niro, Al Pacino, Joe Pesci",
+    "Plot": "An illustration of Frank Sheeran's life, from W.W.II veteran to hit-man for the Bufalino crime family and his alleged assassination of his close friend Jimmy Hoffa.",
+    "Language": "English, Italian, Latin, Spanish, German",
+    "Country": "United States",
+    "Awards": "Nominated for 10 Oscars. 73 wins & 357 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "94/100"
+      }
+    ],
+    "Metascore": "94",
+    "imdbRating": "7.8",
+    "imdbVotes": "403,509",
+    "imdbID": "tt1302006",
+    "Type": "movie",
+    "DVD": "27 Nov 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "1917",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "10 Jan 2020",
+    "Runtime": "119 min",
+    "Genre": "Action, Drama, War",
+    "Director": "Sam Mendes",
+    "Writer": "Sam Mendes, Krysty Wilson-Cairns",
+    "Actors": "Dean-Charles Chapman, George MacKay, Daniel Mays",
+    "Plot": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "Language": "English, French, German",
+    "Country": "United Kingdom, United States, India, Spain",
+    "Awards": "Won 3 Oscars. 135 wins & 206 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Metascore": "78",
+    "imdbRating": "8.2",
+    "imdbVotes": "621,446",
+    "imdbID": "tt8579674",
+    "Type": "movie",
+    "DVD": "25 Dec 2019",
+    "BoxOffice": "$159,227,644",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Knives Out",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "27 Nov 2019",
+    "Runtime": "130 min",
+    "Genre": "Comedy, Crime, Drama",
+    "Director": "Rian Johnson",
+    "Writer": "Rian Johnson",
+    "Actors": "Daniel Craig, Chris Evans, Ana de Armas",
+    "Plot": "A detective investigates the death of the patriarch of an eccentric, combative family.",
+    "Language": "English, Spanish, Hindi",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 52 wins & 114 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.9",
+    "imdbVotes": "727,670",
+    "imdbID": "tt8946378",
+    "Type": "movie",
+    "DVD": "12 Jun 2020",
+    "BoxOffice": "$165,363,234",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Fight Club",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "15 Oct 1999",
+    "Runtime": "139 min",
+    "Genre": "Drama",
+    "Director": "David Fincher",
+    "Writer": "Chuck Palahniuk, Jim Uhls",
+    "Actors": "Brad Pitt, Edward Norton, Meat Loaf",
+    "Plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "Language": "English",
+    "Country": "Germany, United States",
+    "Awards": "Nominated for 1 Oscar. 12 wins & 38 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "79%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
+    ],
+    "Metascore": "66",
+    "imdbRating": "8.8",
+    "imdbVotes": "2,184,523",
+    "imdbID": "tt0137523",
+    "Type": "movie",
+    "DVD": "14 Oct 2003",
+    "BoxOffice": "$37,030,102",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Forrest Gump",
+    "Year": "1994",
+    "Rated": "PG-13",
+    "Released": "06 Jul 1994",
+    "Runtime": "142 min",
+    "Genre": "Drama, Romance",
+    "Director": "Robert Zemeckis",
+    "Writer": "Winston Groom, Eric Roth",
+    "Actors": "Tom Hanks, Robin Wright, Gary Sinise",
+    "Plot": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood swe...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 6 Oscars. 51 wins & 75 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "71%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "8.8",
+    "imdbVotes": "2,137,778",
+    "imdbID": "tt0109830",
+    "Type": "movie",
+    "DVD": "28 Aug 2001",
+    "BoxOffice": "$330,455,270",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Matrix",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "31 Mar 1999",
+    "Runtime": "136 min",
+    "Genre": "Action, Sci-Fi",
+    "Director": "Lana Wachowski, Lilly Wachowski",
+    "Writer": "Lilly Wachowski, Lana Wachowski",
+    "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+    "Plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "Language": "English",
+    "Country": "United States, Australia",
+    "Awards": "Won 4 Oscars. 42 wins & 52 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "73/100"
+      }
+    ],
+    "Metascore": "73",
+    "imdbRating": "8.7",
+    "imdbVotes": "1,955,881",
+    "imdbID": "tt0133093",
+    "Type": "movie",
+    "DVD": "15 May 2007",
+    "BoxOffice": "$172,076,928",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Godfather",
+    "Year": "1972",
+    "Rated": "R",
+    "Released": "24 Mar 1972",
+    "Runtime": "175 min",
+    "Genre": "Crime, Drama",
+    "Director": "Francis Ford Coppola",
+    "Writer": "Mario Puzo, Francis Ford Coppola",
+    "Actors": "Marlon Brando, Al Pacino, James Caan",
+    "Plot": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+    "Language": "English, Italian, Latin",
+    "Country": "United States",
+    "Awards": "Won 3 Oscars. 32 wins & 31 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "100/100"
+      }
+    ],
+    "Metascore": "100",
+    "imdbRating": "9.2",
+    "imdbVotes": "1,910,007",
+    "imdbID": "tt0068646",
+    "Type": "movie",
+    "DVD": "11 May 2004",
+    "BoxOffice": "$136,381,073",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Jojo Rabbit",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "08 Nov 2019",
+    "Runtime": "108 min",
+    "Genre": "Comedy, Drama, War",
+    "Director": "Taika Waititi",
+    "Writer": "Christine Leunens, Taika Waititi",
+    "Actors": "Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson",
+    "Plot": "A young German boy in the Hitler Youth whose hero and imaginary friend is the country's dictator is shocked to discover that his mother is hiding a Jewish girl in their home.",
+    "Language": "English, German",
+    "Country": "New Zealand, United States, Czech Republic",
+    "Awards": "Won 1 Oscar. 49 wins & 191 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "80%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "58/100"
+      }
+    ],
+    "Metascore": "58",
+    "imdbRating": "7.9",
+    "imdbVotes": "410,505",
+    "imdbID": "tt2584384",
+    "Type": "movie",
+    "DVD": "08 Nov 2019",
+    "BoxOffice": "$33,370,906",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Marriage Story",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "06 Dec 2019",
+    "Runtime": "137 min",
+    "Genre": "Drama, Romance",
+    "Director": "Noah Baumbach",
+    "Writer": "Noah Baumbach",
+    "Actors": "Adam Driver, Scarlett Johansson, Julia Greer",
+    "Plot": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
+    "Language": "English, Spanish",
+    "Country": "United Kingdom, United States",
+    "Awards": "Won 1 Oscar. 128 wins & 275 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "94/100"
+      }
+    ],
+    "Metascore": "94",
+    "imdbRating": "7.9",
+    "imdbVotes": "324,532",
+    "imdbID": "tt7653254",
+    "Type": "movie",
+    "DVD": "06 Dec 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Tenet",
+    "Year": "2020",
+    "Rated": "PG-13",
+    "Released": "03 Sep 2020",
+    "Runtime": "150 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan",
+    "Actors": "John David Washington, Robert Pattinson, Elizabeth Debicki",
+    "Plot": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "Language": "English, Russian, Ukrainian, Estonian, Norwegian, Hindi",
+    "Country": "United States, United Kingdom",
+    "Awards": "Won 1 Oscar. 50 wins & 137 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzU3YWYwNTQtZTdiMC00NjY5LTlmMTMtZDFlYTEyODBjMTk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "69%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.3",
+    "imdbVotes": "530,931",
+    "imdbID": "tt6723592",
+    "Type": "movie",
+    "DVD": "15 Dec 2020",
+    "BoxOffice": "$58,504,105",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Hamilton",
+    "Year": "2020",
+    "Rated": "PG-13",
+    "Released": "03 Jul 2020",
+    "Runtime": "160 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Thomas Kail",
+    "Writer": "Lin-Manuel Miranda, Ron Chernow",
+    "Actors": "Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.",
+    "Plot": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 2 Primetime Emmys. 19 wins & 46 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "98%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "89/100"
+      }
+    ],
+    "Metascore": "89",
+    "imdbRating": "8.3",
+    "imdbVotes": "101,629",
+    "imdbID": "tt8503618",
+    "Type": "movie",
+    "DVD": "03 Jul 2020",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Trial of the Chicago 7",
+    "Year": "2020",
+    "Rated": "R",
+    "Released": "16 Oct 2020",
+    "Runtime": "129 min",
+    "Genre": "Drama, History, Thriller",
+    "Director": "Aaron Sorkin",
+    "Writer": "Aaron Sorkin",
+    "Actors": "Eddie Redmayne, Alex Sharp, Sacha Baron Cohen",
+    "Plot": "The story of 7 people on trial stemming from various charges surrounding the uprising at the 1968 Democratic National Convention in Chicago, Illinois.",
+    "Language": "English, Latin, French",
+    "Country": "United States, United Kingdom, India",
+    "Awards": "Nominated for 6 Oscars. 58 wins & 192 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjYzOGE1MjUtODgyMy00ZDAxLTljYTgtNzk0Njg2YWQwMTZhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "89%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "76/100"
+      }
+    ],
+    "Metascore": "76",
+    "imdbRating": "7.7",
+    "imdbVotes": "184,235",
+    "imdbID": "tt1070874",
+    "Type": "movie",
+    "DVD": "16 Oct 2020",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Promising Young Woman",
+    "Year": "2020",
+    "Rated": "R",
+    "Released": "25 Dec 2020",
+    "Runtime": "113 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "Emerald Fennell",
+    "Writer": "Emerald Fennell",
+    "Actors": "Carey Mulligan, Bo Burnham, Alison Brie",
+    "Plot": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "Won 1 Oscar. 117 wins & 194 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTgzMzE4MGItZDgxYS00ZGEwLWE3YTctZWY3ZDAyMTk0ZGU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "73/100"
+      }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.5",
+    "imdbVotes": "188,047",
+    "imdbID": "tt9620292",
+    "Type": "movie",
+    "DVD": "15 Jan 2021",
+    "BoxOffice": "$6,460,965",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Mulan",
+    "Year": "1998",
+    "Rated": "G",
+    "Released": "19 Jun 1998",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Tony Bancroft, Barry Cook",
+    "Writer": "Robert D. San Souci, Rita Hsiao, Chris Sanders",
+    "Actors": "Ming-Na Wen, Eddie Murphy, BD Wong",
+    "Plot": "To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.",
+    "Language": "English, Mandarin",
+    "Country": "United States, Japan",
+    "Awards": "Nominated for 1 Oscar. 17 wins & 21 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODkxNGQ1NWYtNzg0Ny00Yjg3LThmZTItMjE2YjhmZTQ0ODY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "86%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.6",
+    "imdbVotes": "299,526",
+    "imdbID": "tt0120762",
+    "Type": "movie",
+    "DVD": "26 Oct 2004",
+    "BoxOffice": "$120,620,254",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Invisible Man",
+    "Year": "2020",
+    "Rated": "R",
+    "Released": "28 Feb 2020",
+    "Runtime": "124 min",
+    "Genre": "Drama, Horror, Mystery",
+    "Director": "Leigh Whannell",
+    "Writer": "Leigh Whannell, H.G. Wells",
+    "Actors": "Elisabeth Moss, Oliver Jackson-Cohen, Harriet Dyer",
+    "Plot": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+    "Language": "English",
+    "Country": "Australia, United States",
+    "Awards": "43 wins & 84 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzc0OGI3NzctNDljYS00MjFiLWIzNjktNjY5MTYwYWRiYWUwXkEyXkFqcGdeQXVyNTU5Mzk0NjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.1",
+    "imdbVotes": "238,120",
+    "imdbID": "tt1051906",
+    "Type": "movie",
+    "DVD": "07 Mar 2018",
+    "BoxOffice": "$70,410,000",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Borat Subsequent Moviefilm",
+    "Year": "2020",
+    "Rated": "R",
+    "Released": "23 Oct 2020",
+    "Runtime": "95 min",
+    "Genre": "Comedy",
+    "Director": "Jason Woliner",
+    "Writer": "Sacha Baron Cohen, Anthony Hines, Dan Swimer",
+    "Actors": "Sacha Baron Cohen, Maria Bakalova, Tom Hanks",
+    "Plot": "Borat returns to America from Kazakhstan to America, this time to reveal more about the American culture, the COVD-19 pandemic, and the political elections.",
+    "Language": "English, Bulgarian, Hebrew, Romanian, Croatian",
+    "Country": "United States, United Kingdom",
+    "Awards": "Nominated for 2 Oscars. 38 wins & 65 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmY3OTdkOWEtNjc2ZC00OTZmLWI5OWItMjdjYjRkNTExNDNhXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "Metascore": "68",
+    "imdbRating": "6.6",
+    "imdbVotes": "146,196",
+    "imdbID": "tt13143964",
+    "Type": "movie",
+    "DVD": "23 Oct 2020",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Godzilla vs. Kong",
+    "Year": "2021",
+    "Rated": "PG-13",
+    "Released": "31 Mar 2021",
+    "Runtime": "113 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Adam Wingard",
+    "Writer": "Terry Rossio, Michael Dougherty, Zach Shields",
+    "Actors": "Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall",
+    "Plot": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against each other--the fearsome Godzilla and the mighty Kong--with humanity caught in the balance.",
+    "Language": "English, American Sign ",
+    "Country": "United States",
+    "Awards": "3 wins & 19 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "75%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "59/100"
+      }
+    ],
+    "Metascore": "59",
+    "imdbRating": "6.3",
+    "imdbVotes": "220,049",
+    "imdbID": "tt5034838",
+    "Type": "movie",
+    "DVD": "31 Mar 2021",
+    "BoxOffice": "$100,916,094",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+]
